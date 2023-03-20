@@ -1,0 +1,38 @@
+{
+    "Version": 1,
+    "AllowedPlugins": {
+        "295e3ced": {
+            "ComputerName": "DREAMBOX",
+            "Plugins": {
+                "C:/Users/grego/OneDrive/Documents/GitHub/TD-OpenCV3TOP/Plugins/CV3FaceDetectTOP.windows/CV3FaceDetectTOP.dll": {
+                    "Hashes": [
+                        "yU2aKrfbmF0yRd1T/omsQuNIlwkUSblumImwMK+PR1BsX/oZECRJKgnfJIRtgPDx1HdJskz75g4oritC6BbSlGzJAiHA5Plw0irat9EPGWZot4UgY/N4z3qfGqyGhoAW"
+                    ],
+                    "AuthorName": "Da Xu",
+                    "AuthorEmail": "da.xu@wearesohappy.net"
+                },
+                "C:/Users/grego/OneDrive/Desktop/SDCN/Plugins/CV3FaceDetectTOP.windows/CV3FaceDetectTOP.dll": {
+                    "Hashes": [
+                        "J79dm+APlzUu+DOHUAQOwj9pnKwfBVGjASuB1H7UJieCXCOid6wJdf3jyGLiL1LJABILEiw52pXiGXPnXG+QSTZF6ropZWthRGLf3koGpru3w8MGRlwQgNaozQ7FAEO5"
+                    ],
+                    "AuthorName": "Da Xu",
+                    "AuthorEmail": "da.xu@wearesohappy.net"
+                },
+                "C:/Users/grego/OneDrive/Documents/GitHub/stablediffusion-touchdesigner-ui/Plugins/CV3FaceDetectTOP.windows/CV3FaceDetectTOP.dll": {
+                    "Hashes": [
+                        "x9lhAeDB5Pc4Dm6WwYEofj/DfHji7N1ouQLZrTKFhuUJdYKkGWy4oQTKVMptgQoI6KGC1cZyH9twJZIQO/Z4bIo/XCVKRHxN6xMbHi0HpoOYcWX970qvZ6M2iry4A1Hn"
+                    ],
+                    "AuthorName": "Da Xu",
+                    "AuthorEmail": "da.xu@wearesohappy.net"
+                },
+                "C:/Users/grego/OneDrive/Documents/GitHub/stablediffusion-touchdesigner/Plugins/CV3FaceDetectTOP.windows/CV3FaceDetectTOP.dll": {
+                    "Hashes": [
+                        "CUgmvst9WTF3DFisTxvxkhzVU3Gy1PoNCkfnYvH1WK6h2JlvEI+taWBN2BDi5sZb1sLLrKIUDrNJbWuQgdO1J5eSG6PSxRlVTTPakFTiWspQI4l1PJg6vBKLrPmfSjXg"
+                    ],
+                    "AuthorName": "Da Xu",
+                    "AuthorEmail": "da.xu@wearesohappy.net"
+                }
+            }
+        }
+    }
+}
